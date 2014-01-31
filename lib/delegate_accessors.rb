@@ -1,7 +1,6 @@
 require "active_support/core_ext"
 require "delegate_accessors/version"
 
-puts  "eval"
 module DelegateAccessors
   extend ActiveSupport::Concern
 
